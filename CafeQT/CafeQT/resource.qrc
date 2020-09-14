@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/Business-Icon-Set-179496.png</file>
+        <file>img/Button White Info.png</file>
+        <file>img/exit.png</file>
+        <file>img/Без названия.jpg</file>
+        <file>img/cafe-server.gif</file>
+        <file>img/background.jpg</file>
+        <file>img/button.jpg</file>
+        <file>MenuDrink.txt</file>
+        <file>MenuDish.txt</file>
+        <file>MenuAlcoDrink.txt</file>
+        <file>img/1537260519_im38.jpg</file>
+        <file>img/cup_PNG1964-170x170.png</file>
+    </qresource>
+</RCC>
